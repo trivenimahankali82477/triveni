@@ -1,0 +1,52 @@
+{
+	"details":{
+		"image":"image1.jpg",
+		"name":"triveni",
+		"phoneno":"630066905",
+		"email":"mtrivenitri1234@gmail.com",
+		"address":"vignan's nirula college,guntur."
+	},
+	"career":{
+		"info":"to purse a challenging career"
+	},
+	"education":[
+		{
+			"qualification":"B.tech",
+			"institute":"vignan's nirula college",
+			"year":"2016-2020",
+			"percentage":"80%"
+		},
+         {
+			"qualification":"intermediate",
+			"institute":"sri chaitanya college",
+			"year":"2014-2016",
+			"percentage":"85%"
+		},
+ {
+			"qualification":"10th",
+			"institute":"sai public school",
+			"year":"2014",
+			"percentage":"80%"
+		}
+	],
+	"skills":[{
+		"title":"programming languages",
+		"info":["c","java","c++","python","R"]
+
+	},
+	{
+		"title":"database",
+		"info":["oracle","musql","sql"]
+	},
+	{
+		"title":"operating systems",
+		"info":["windows","linux","unix","ubuntu"]
+	}
+],
+	"achievements":[
+		{
+			"title":"achievements information",
+			"information":["got certified by jkc"]
+		}
+]
+}
